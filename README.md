@@ -1,6 +1,6 @@
 # OCR WEB APP
 
-Hi! I'm Debjit, a **MERN Stack Developer**. This is a simple OCR (Optical Character Recognition) application **OCR Web App**. I have created it with **React** in frontend.
+Hi! I'm Akash, a **Web Developer**. This is a simple OCR (Optical Character Recognition) application **OCR Web App**. I have created it with **React** in frontend.
 <br>
 <br>
 > ### Web App Link - https://ocr-app-2021.web.app/
